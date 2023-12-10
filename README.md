@@ -7,7 +7,6 @@
     <li><a href="#demo">Demo</a></li>
     <li><a href="#technical-tools">Technical Tools</a></li>
     <li><a href="#how-to-use-the-source-code">How to use the source code</a></li>
-    <li><a href="#the-bottom-line">The Bottom Line</a></li>
   </ol>
 </details>
 
@@ -60,8 +59,6 @@ To download the <a href="https://github.com/LeoUtas/hangman2/tree/exe/hangman2ex
     ```
 
 -   That's everything, you're good to go.
-
-### The bottom line
 
 I hope you like it. The words used in hangman2 are all character names from the 'Harry Potter' series by J.K. Rowling. Thank you for your interest and for making it this far. Wishing you an incredible day filled with magic and adventure
 
